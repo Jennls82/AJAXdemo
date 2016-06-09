@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Zombies",
+        "shortname0":"11451199/15936673/239aad78-2e29-11e6-9b3a-c4094bb2ee2c",
+        "shortname1":"11451199/15936675/23a7ec5e-2e29-11e6-97b9-7ecdc9dc9bb2",
+        "shortname2":"11451199/15936683/23b93b26-2e29-11e6-8bba-d4f0c40fa408",
+        "shortname3":"11451199/15936682/23b82074-2e29-11e6-899b-3158610df1f9",
+        "shortname4":"11451199/15936681/23b5da9e-2e29-11e6-8159-006f324ce826",
+        "reknown":"Who Doesn't Love Zombies?",
+        "bio":"Zombies created for commercials, music videos and just for fun!"
+    },
+    {
+        "name":"Characters",
+        "shortname0":"11451199/15936680/23afbfe2-2e29-11e6-97f4-64354b4e8cbf",
+        "shortname1": "11451199/15936672/239a0134-2e29-11e6-9ef4-b82f9707052a",
+        "shortname2": "11451199/15936677/23a9b412-2e29-11e6-804f-56d7ce938bc7",
+        "shortname3": "11451199/15936679/23ab24e6-2e29-11e6-8c88-8b9f9ed7b3a6",
+        "shortname4": "11451199/15936676/23a92740-2e29-11e6-97c5-e009df742222",
+        "reknown":"Quite the Character!",
+        "bio":"Looks created for special events, demos and film."
+    },
+    {
+        "name":"Injuries",
+        "shortname0":"11451199/15936670/2399a7a2-2e29-11e6-97af-c019cbfb29b8",
+        "shortname1":"11451199/15936671/2399c26e-2e29-11e6-8377-1dd53fa7b0b1",
+        "shortname2":"11451199/15936678/23aa945e-2e29-11e6-986b-a22c53db5b1b",
+        "shortname3":"11451199/15936674/239aee32-2e29-11e6-96c1-62a44c78aead",
+        "shortname4": "11451199/15936669/239822a6-2e29-11e6-8601-9c115a2b06c0",
+        "reknown":"What Happened?!",
+        "bio":"Injury Makeup for film, demonstrations and events"
+    }
+]
